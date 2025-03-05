@@ -1,4 +1,4 @@
-"# HTML_CSS";
+# HTML_CSS
 Project for illustrative purposes only;
 
 1 - From "CODE" button, click to "DOWNLOAD ZIP";
